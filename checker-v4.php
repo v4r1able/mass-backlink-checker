@@ -143,7 +143,9 @@ echo "HTTP LINK - <u>".$site_adresi."</u> adresinde <u>".$anahtar_kelime."</u> a
 
 }
 
+if(strstr($ozellikler_n, "on_ta")) {
 echo '</textarea><br><button onclick="kopyala_v4()">Çıktıyı Kopyala</button>';
+}
 
 }
 
