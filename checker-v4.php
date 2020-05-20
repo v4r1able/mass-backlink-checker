@@ -1,7 +1,7 @@
 <!-- V4R1ABLE - T13R - OBIR.NINJA -->
 <html>
 <head>
-<title>Zararlı Dosya Tarayıcı - V4R1ABLE - T13R - OBIR.NINJA</title>
+<title>Backlink Checker - V4R1ABLE - T13R - OBIR.NINJA</title>
 <style type="text/css">
 a {
 text-decoration:none;
